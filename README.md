@@ -10,7 +10,7 @@ When pressed, triggers the closeThumb() function that closes the thumb. Meant fo
 
 ### Button2
 
-Triggers the closeHand() function to close all of the fingers in order to grab larger items. The stopping point of the closed fingers can be altered by changing either or both of the index_full_threshold and rem_full_threshold variables.
+Triggers the closeHand() function to close all of the fingers in order to grab larger items. The stopping point of the closed fingers can be altered by changing either or both of the thumb_threshold and rem_threshold variables.
 
 ### Button3
 
