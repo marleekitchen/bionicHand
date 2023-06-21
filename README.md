@@ -19,4 +19,6 @@ Pressing this button causes the openHand() function to be triggered, opening the
 ![IMG_3933 (1)](https://github.com/marleekitchen/bionicHand/assets/104484519/3d27cee2-0c28-4469-b50b-4e8b63bfa191)
 ![IMG_5784](https://github.com/marleekitchen/bionicHand/assets/104484519/bc979ece-843e-4a0e-849c-57c8cfcaf987)
 ![IMG_5788](https://github.com/marleekitchen/bionicHand/assets/104484519/6a33c3d9-bafd-40fb-9ab5-194acf2c4aa3)
-https://github.com/marleekitchen/bionicHand/assets/104484519/9e1f073c-0dec-4dc2-ab6c-62cdb6d7899a
+
+https://github.com/marleekitchen/bionicHand/assets/104484519/86c359e7-7434-4e28-8f04-0dc2c6ef9d2f
+
