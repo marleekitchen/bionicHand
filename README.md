@@ -6,7 +6,7 @@ Arduino code that implements the basic functionalities of a 3D printed hand.
 
 ### Button1
 
-When pressed, triggers the closeThumb() function that closes the index finger and thumb. Meant for grasping small objects, can grab delicate items due to integration of a force sensor.
+When pressed, triggers the closeThumb() function that closes the thumb. Meant for grasping small objects, can grab delicate items due to integration of a force sensor.
 
 ### Button2
 
